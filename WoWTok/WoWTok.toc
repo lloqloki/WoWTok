@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: WoWTok
+## Notes: Лента в стиле TikTok в окне WoW. Открыть: /tiktok
+## Version: 0.3.0
+## IconTexture: Interface\Icons\INV_ValentinesCandy
+## SavedVariables: WoWTokDB
+
+videos.lua
+WoWTok.lua

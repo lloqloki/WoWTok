@@ -1,0 +1,14 @@
+# Ролики и всё, что из них сделано, в репозиторий не попадают: это чужие видео
+raw/
+WoWTok/Media/
+WoWTok/videos.lua
+
+# Рабочие файлы
+tests/out/
+*.log
+*_ids.txt
+*_urls.txt
+*archive.txt
+probe.csv
+CURSEFORGE.md
+__pycache__/
